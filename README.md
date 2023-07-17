@@ -13,7 +13,7 @@ Jupyter Notebook
 You can install these libraries using pip by running:
 
 Copy
-pip install numpy pandas scikit-learn matplotlib seaborn jupyter
+### pip install numpy pandas scikit-learn matplotlib seaborn jupyter
 # Usage
 To run the project, open the finding_donors.ipynb Jupyter Notebook and follow the instructions inside. The notebook contains all the code for data exploration, data preprocessing, feature engineering, model selection, and model evaluation.
 
