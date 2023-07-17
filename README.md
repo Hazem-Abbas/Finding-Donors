@@ -2,7 +2,7 @@
 This is a machine learning project that uses data from the US census to predict which individuals are most likely to donate to a charity organization. The goal of the project is to help a non-profit organization target potential donors more effectively, in order to maximize their fundraising efforts.
 
 #Installation
-This project requires Python 3.x and the following Python libraries installed:
+This project requires Python 3.8 and the following Python libraries installed:
 
 NumPy
 Pandas
